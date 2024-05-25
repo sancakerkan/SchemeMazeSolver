@@ -12,7 +12,7 @@ To run this project, you'll need to use the Racket Scheme interpreter. Follow th
 1. Download and install the Racket application from [here](https://download.racket-lang.org/).
 2. Open the Racket program and set the language to "The Racket Language".
 3. Use `#lang scheme` or `#lang racket` at the beginning of every file.
-4. "PathSolver.rkt" is the code for this project.
+4. "[PathSolver.rkt](PathSolver.rkt)." is the code for this project.
 
 You can also find instructions [here](Path%20Solver%20Instructions.pdf).
 
