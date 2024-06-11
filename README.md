@@ -30,7 +30,9 @@ The solution for the path is represented as a sequence of movements, such as "D 
 ## Contribution
 
 Feel free to contribute to this project by forking the repository, adding new features, or fixing bugs. Submit your changes with a pull request.
+## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 # Special Thanks
 
 I would like to express my gratitude to the following friends for their contributions to the successful completion of this project:
